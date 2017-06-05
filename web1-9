@@ -11,3 +11,55 @@ font-size:=30px;
 .box-multi_shadow {box-shadow:0px 0px 0px 3px lightgrey inset,
                               0px 0px 0px 3px black inset,
                               2px 2px 10px 0px black;padding:5px; margin:20px;}
+                              
+body{
+background-image:url(),url();
+background-repeat:no-repeat,np-repeat;
+background-color:lightgrey
+margin:5px;
+}
+
+#gre\adient{
+font-size:30px;
+}
+.tow-gradient{
+background-color:white;
+background:linear-gradeint(0deg,
+orangered 0%,
+winte 50%);
+             
+             }
+.three-gradeint{
+background=color;:white;
+background:linear-gradient(90deg,
+orangered 0%
+white 50%,
+orange 100%);
+}
+.skew-gradeint{background=color;:white;
+background:linear-gradient(90deg,
+orangered 0%
+white 50%,
+orange 100%}
+
+.button{
+display:black;
+margin:5px;
+padding:10px;
+width:200px;
+text-align:center;
+border-radius:5px;
+box-shadow:1px 1px 3px dimgray;
+color:white;
+font-weight:bold;
+text-shadow:1px 1px 0 rgba(0,0,0,4);
+background-color:blue;
+background:linear-gradient(0deg,
+#00679A
+#0081B4 50%,
+#63B3D2 50%
+#BFESF"2;)}
+
+.rotate{
+transform:rotate(30deg);
+}
